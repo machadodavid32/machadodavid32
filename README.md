@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @machadodavid32
 - 👀 I’m interested in ...aprender programação
-- 🌱 I’m currently learning ...Estou aprendendo c++ e javascript
+- 🌱 I’m currently learning ...Estou aprendendo c++ e Python
 - 💞️ I’m looking to collaborate on ... por enquanto estou só aprendendo e observando
 - 📫 How to reach me ...por email machadodavid32@gmail.com 
 
