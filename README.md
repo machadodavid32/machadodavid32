@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @machadodavid32
-- 👀 I’m interested in ...aprender programação
+- Olá, sou o David.
+- Desenvolvimento de softwares em Python
 - 🌱 I’m currently learning ...Estou aprendendo c++ e Python
-- 💞️ I’m looking to collaborate on ... por enquanto estou só aprendendo e observando
 - 📫 How to reach me ...por email machadodavid32@gmail.com 
 
-<!---
+
 machadodavid32/machadodavid32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
