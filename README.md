@@ -1,6 +1,6 @@
 - Olá, sou o David.
-- Desenvolvimento de softwares em Python
-- 🌱 I’m currently learning ...Tentando fazer a diferença em Python
+- Desenvolvimento de softwares em Python e Java
+- 🌱 I’m currently learning ...Python, Java
 - 📫 How to reach me ...por email machadodavid32@gmail.com 
 
 
